@@ -1,0 +1,45 @@
+body{
+	background: lightgray;
+}
+.title{
+	color: white;
+	background: linear-gradient(to right, yellow, darkblue);
+	text-align: center;
+	border: 1px solid white;
+	border-radius: 10px;
+	height: 160px;
+}
+.main{
+	width: 70%;
+	display: inline-block;
+	border: 1px solid white;
+	border-collapse: collapse;
+	border-radius: 10px;
+	background: linear-gradient(to right, beige 60%, lightblue);
+}
+.add{
+	width: 28%;
+	background: white;
+	display: inline-block;
+	border: 1px solid white;
+	border-collapse: collapse;
+	border-radius: 10px;
+	float: right;
+}
+p{
+	margin-right: 200px;
+	font-size: 1.4em;
+}
+img{
+	border: 1px solid blue;
+	border-radius: 10px;
+}
+table, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+	background: white;
+}
+td{
+	padding: 6px;
+}
+
